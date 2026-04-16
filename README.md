@@ -1,4 +1,4 @@
-# SAP P2P Simulator — TechBridge Manufacturing Pvt. Ltd.
+# SAP P2P Simulator 
 ## Procure-to-Pay Full Purchasing Cycle | KIIT SAP Capstone Project
 
 ---
